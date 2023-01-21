@@ -3,21 +3,21 @@ const reviews = [
     {
         name: "Teszt Elek",
         job: "Javascript fejlesztő",
-        kép: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        img: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur, dolores obcaecati officia, fuga fugiat quasi, aperiam libero eum eligendi eveniet unde! Consectetur mollitia assumenda tempore quo rem minus voluptates possimus magnam doloribus perspiciatis, dolorem totam consequatur rerum nostrum accusantium hic. At praesentium itaque velit similique totam soluta! Recusandae labore suscipit dolores porro nesciunt? Alias magnam aut animi, cumque laboriosam deleniti nulla culpa blanditiis officia facilis, enim quae cupiditate odio atque facere! Nemo vitae aspernatur magnam. Repudiandae quo labore aliquid sint."
     },
 
     {
         name: "Török Bálintné",
         job: "HTML programozó!!! XD",
-        kép: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        img: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur, dolores obcaecati officia, fuga fugiat quasi, aperiam libero eum eligendi eveniet unde! Consectetur mollitia assumenda tempore quo rem minus voluptates possimus magnam doloribus perspiciatis, dolorem totam consequatur rerum nostrum accusantium hic. At praesentium itaque velit similique totam soluta! Recusandae labore suscipit dolores porro nesciunt? Alias magnam aut animi, cumque laboriosam deleniti nulla culpa blanditiis officia facilis, enim quae cupiditate odio atque facere! Nemo vitae aspernatur magnam. Repudiandae quo labore aliquid sint."
     },
 
     {
         name: "Szent Emily",
         job: "Manuális tesztelő",
-        kép: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        img: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur, dolores obcaecati officia, fuga fugiat quasi, aperiam libero eum eligendi eveniet unde! Consectetur mollitia assumenda tempore quo rem minus voluptates possimus magnam doloribus perspiciatis, dolorem totam consequatur rerum nostrum accusantium hic. At praesentium itaque velit similique totam soluta! Recusandae labore suscipit dolores porro nesciunt? Alias magnam aut animi, cumque laboriosam deleniti nulla culpa blanditiis officia facilis, enim quae cupiditate odio atque facere! Nemo vitae aspernatur magnam. Repudiandae quo labore aliquid sint."
     }
 
